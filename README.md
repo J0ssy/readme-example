@@ -12,7 +12,7 @@
 
 *Esto es una itálica o cursiva y* _esto también_
 
-**Esto es Bold** __Esto `hola` también__
+**Esto es Bold** __Esto `hola sin propiedades` también__
 
 ~~Tachado~
 
